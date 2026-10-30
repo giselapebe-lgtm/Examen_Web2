@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "nombre": "Proyecto Web",
+    "nombre": "Proyecto",
     "descripcion": "Estaciona_YA",
     "estado": "En proceso"
   },
@@ -10,5 +10,17 @@
     "nombre": "Gestor Tareas",
     "descripcion": "Terminar todo",
     "estado": "En proceso"
+  },
+  {
+    "id": 3,
+    "nombre": "TABLA",
+    "descripcion": "Data Base",
+    "estado": "Finalizada"
+  },
+  {
+    "id": 4,
+    "nombre": "TAREAS",
+    "descripcion": "TERMINARLA",
+    "estado": "Finalizada"
   }
 ]
